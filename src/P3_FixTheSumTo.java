@@ -6,7 +6,7 @@
 
 /*
 3. What problems did you identify in the sumTo method below?
-
+There was no return n
 
 */
 
@@ -23,7 +23,7 @@ public class P3_FixTheSumTo {
 	        int sum = 0; 
 	        sum += i;
 	    }
-		return n;
+	    return n;
 	}
 
 }

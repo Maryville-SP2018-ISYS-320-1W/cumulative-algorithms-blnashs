@@ -23,6 +23,7 @@ public class P3_FixTheSumTo {
 	        int sum = 0; 
 	        sum += i;
 	    }
+		return n;
 	}
 
 }
